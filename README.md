@@ -1,4 +1,4 @@
-# Investigacion-para-Ingenieria
+# Modelo de análisis de datos e inteligencia artificial para diferenciar fallas técnicas del monoplaza y errores de conducción en la Fórmula 1
 ## Referencias:
 1. A. Z. Al-Absi, M. K. A. Al-Absi, et al. (2024). A Comprehensive Literature Review on
 Modular Approaches to Autonomous Driving: Deep Learning for Road and Racing Sce-
