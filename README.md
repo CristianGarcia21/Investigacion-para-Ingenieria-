@@ -1,7 +1,5 @@
 # Modelo de análisis de datos e inteligencia artificial para diferenciar fallas técnicas del monoplaza y errores de conducción en la Fórmula 1
 ## Referencias Poster
-Estas son las referencias clave citadas directamente en el póster académico para sustentar la Metodología (A-CML), el Análisis (SHAP) y el Caso de Estudio (Red Bull 2025):
-
 1. E. Van Kesteren and T. Bergkamp. (2023). Successful performance in Formula One is determined by combination of both the driver’s skill and race-car constructor advantage. Journal of Quantitative Analysis in Sports, 19(3), 229-242. (De Gruyter/Scopus)
 
 2.  S. Ö. Arik and T. Pfister. (2021). TabNet: Attentive Interpretable Tabular Learning. In Proceedings of the AAAI Conference on Artificial Intelligence, 35(8), 6679-6687.
