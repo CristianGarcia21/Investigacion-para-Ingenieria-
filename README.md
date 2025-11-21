@@ -1,4 +1,22 @@
 # Modelo de análisis de datos e inteligencia artificial para diferenciar fallas técnicas del monoplaza y errores de conducción en la Fórmula 1
+## Referencias Poster
+Estas son las referencias clave citadas directamente en el póster académico para sustentar la Metodología (A-CML), el Análisis (SHAP) y el Caso de Estudio (Red Bull 2025):
+
+* **[1] Base Teórica (Piloto vs Constructor):**
+    E. Van Kesteren and T. Bergkamp. (2023). Successful performance in Formula One is determined by combination of both the driver’s skill and race-car constructor advantage. Journal of Quantitative Analysis in Sports, 19(3), 229-242. (De Gruyter/Scopus)
+
+* **[2] Metodología (Arquitectura TabNet):**
+    S. Ö. Arik and T. Pfister. (2021). TabNet: Attentive Interpretable Tabular Learning. In Proceedings of the AAAI Conference on Artificial Intelligence, 35(8), 6679-6687.
+
+* **[3] Metodología (Series Temporales Bi-LSTM):**
+    L. W. (2024). BiLSTM-MLAM: A Multi-Scale Time Series Prediction Model for Sensor Data Based on Bi-LSTM and Local Attention Mechanisms. Sensors, 24(12), 3962. (MDPI)
+
+* **[4] Validación (Caso de Estudio Red Bull - Ground Truth):**
+    Formula1.com. (2025, febrero). Newey considers if lack of experience at Red Bull contributed to recent car driveability issues.
+
+* **[5] Análisis de Explicabilidad (XAI - SHAP):**
+    J. K. (2023). WindowSHAP: An Efficient Framework for Explaining Time-series Classifiers based on Shapley Values. IEEE/CVF International Conference on Computer Vision (ICCV), 18384-18393.
+
 ## Referencias:
 1. A. Z. Al-Absi, M. K. A. Al-Absi, et al. (2024). A Comprehensive Literature Review on
 Modular Approaches to Autonomous Driving: Deep Learning for Road and Racing Sce-
